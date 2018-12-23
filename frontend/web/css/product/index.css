@@ -1,0 +1,10 @@
+div img.logo{
+    width: 65px !important;
+}
+div img.logo:hover{
+    transform: scale(1.5) !important;
+}
+.loader{
+
+    width: 55px !important;
+}

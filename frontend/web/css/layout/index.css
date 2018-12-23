@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'sans';
+
+    src: url('../../fonts/iransans.eot');
+    src: url('../../fonts/iransans.eot?#iefix') format('embedded-opentype'),
+    url('../../fonts/iransans.woff') format('woff'),
+    url('../../fonts/iransans.ttf') format('truetype');
+}
+
+body{
+    background-color: #f9f9f9 !important;
+    font-family: 'sans' !important;
+}
+/* for header */
+.color-bg{
+    background-color: #D4F09E !important;
+    z-index: 100;
+
+}
+/* footer */
+div div.social i{
+    font-size: 35px;
+    padding: 25px;
+}
+/* chat and top */
+
+
+div a img#top-link{
+    position: fixed;
+    bottom: 70px;
+    right: 70px;
+    width: 75px;
+}
+header nav{
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+h1{
+    margin: 0;
+}
+nav ul a{
+    color: #0f0f0f !important;
+}
+
